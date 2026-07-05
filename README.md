@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/729811747812147260"/>
+  <img src="https://lanyard.cnrad.dev/api/1510011438620479668"/>
 </p>
 <p align="center">
   <a href="https://www.tiktok.com/@labi.dev">
